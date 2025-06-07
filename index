@@ -1,0 +1,4 @@
+echo '<!DOCTYPE html><html><head><title>我的网站</title></head><body><h1>欢迎访问！</h1></body></html>' > index.html
+git add index.html
+git commit -m "添加首页"
+git push
